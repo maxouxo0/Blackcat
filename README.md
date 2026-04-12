@@ -4,12 +4,16 @@ Termux (Android) :
 
 2. Dans Termux :
    pkg update && pkg upgrade -y
+   
    pkg install python git -y
+   
    pip install pycryptodome
+   
    git clone https://github.com/maxouxo0/kyoyu
+   
    cd kyoyu
 
-3. Lancer le client :
+4. Lancer le client :
    python client.py
 
 ----------------------
@@ -20,10 +24,12 @@ Windows/Linux/Mac :
 
 2. Dans un terminal :
    pip install pycryptodome
+   
    git clone https://github.com/maxouxo0/kyoyu
+   
    cd kyoyu
 
-3. Lancer le client :
+4. Lancer le client :
    python client.py
 
 ----------------------
