@@ -2,7 +2,7 @@ Termux (Android) :
 1. Installer Termux depuis F-Droid :
    https://f-droid.org/packages/com.termux
 
-2. Dans Termux :
+3. Dans Termux :
    pkg update && pkg upgrade -y
    
    pkg install python git -y
@@ -13,7 +13,7 @@ Termux (Android) :
    
    cd kyoyu
 
-4. Lancer le client :
+5. Lancer le client :
    python client.py
 
 ----------------------
