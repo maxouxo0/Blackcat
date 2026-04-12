@@ -11,6 +11,9 @@ Termux (Android) :
 
 3. Lancer le client :
    python client.py
+
+----------------------
+
 Windows/Linux/Mac :
 1. Installer Python :
    https://python.org/downloads
@@ -22,6 +25,9 @@ Windows/Linux/Mac :
 
 3. Lancer le client :
    python client.py
+
+----------------------
+
 Dans les deux cas :
 - Entrer l'IP du serveur quand demandé
 - Entrer l'UID du groupe
