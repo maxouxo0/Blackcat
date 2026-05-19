@@ -9,9 +9,9 @@ Termux (Android) :
    
    pip install pycryptodome
    
-   git clone https://github.com/maxouxo0/kyoyu
+   git clone https://github.com/maxouxo0/Blackcat
    
-   cd kyoyu
+   cd Blackcat
 
 5. Lancer le client :
    python client.py
@@ -25,9 +25,9 @@ Windows/Linux/Mac :
 2. Dans un terminal :
    pip install pycryptodome
    
-   git clone https://github.com/maxouxo0/kyoyu
+   git clone https://github.com/maxouxo0/Blackcat
    
-   cd kyoyu
+   cd Blackcat
 
 4. Lancer le client :
    python client.py
